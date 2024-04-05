@@ -11,3 +11,7 @@ I'm a dev programmer with focus in the Game industry. I am currently in the last
 <img alt = "itch.io" src="https://custom-icon-badges.demolab.com/badge/Itch--io-blue.svg?logo=itchio"/>
 </a>
 </p>
+
+## Languages and Tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
