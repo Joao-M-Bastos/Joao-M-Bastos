@@ -10,6 +10,6 @@ I like to solve difficult problems, ones I don't accuallly know the answer right
 
 <p aling='left'>
 <a href = "https://joao-marcos-bastos.itch.io/">
-<img alt = "itch.io" src="https://img.shields.io/badge/just%20the%20message-8A2BE2"/>
+<img alt = "itch.io" src="https://img.shields.io/badge/Itch.io"/>
 </a>
 </p>
