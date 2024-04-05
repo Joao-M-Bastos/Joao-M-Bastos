@@ -29,4 +29,4 @@ I'm a dev programmer with focus in the Game industry. I am currently in the last
 
 #
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-M-Bastosa&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-M-Bastos&show_icons=true&theme=tokyonight)
