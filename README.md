@@ -8,6 +8,6 @@ I'm a dev programmer with focus in the Game industry. I am currently in the last
 
 <p aling='left'>
 <a href = "https://joao-marcos-bastos.itch.io/">
-<img alt = "itch.io" src="https://img.shields.io/badge/Itch__io-E46145"/>
+<img alt = "itch.io" src="https://img.shields.io/logo=itchio"/>
 </a>
 </p>
