@@ -31,8 +31,6 @@ I have a consistent interest in complex technical challenges and frequently cond
 <br>
 
 #
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-M-Bastos&show_icons=true&theme=tokyonight)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-M-Bastos)](https://github.com/anuraghazra/github-readme-stats)
 
