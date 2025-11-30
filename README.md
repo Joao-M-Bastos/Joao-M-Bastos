@@ -30,6 +30,6 @@ I have a consistent interest in complex technical challenges and frequently cond
 <img align="left" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" title="Linguagem: Visual Basic"/>
 <br>
 
-###a
+<br><br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-M-Bastos)]
 
