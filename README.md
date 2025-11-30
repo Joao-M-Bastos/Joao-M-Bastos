@@ -2,7 +2,9 @@
 
 **`Programmer(pc/mobile/web)`**
 
-I'm a dev programmer with focus in the Game industry. I have a degree in Digital Games. In my projects I like to take the botton up approuch, fist looking at the problem that needs to be solved and then building up the design, planning up the routes we will take to get there. I like to solve difficult problems, ones I don't accuallly know the answer right away and I am always making small projetcs about intersting game mechanics
+I am a software developer with a strong focus on systematic problem analysis and bottom-up solution design. My workflow typically begins with defining the core technical requirements, decomposing the problem into actionable components, and selecting the most effective tools, algorithms, and architectures to achieve a robust implementation.
+
+I have a consistent interest in complex technical challenges and frequently conduct independent research projects to explore new programming languages, development frameworks, and emerging technologies. This continuous learning mindset allows me to adapt quickly and contribute effectively to diverse engineering environments.
 
 
 
