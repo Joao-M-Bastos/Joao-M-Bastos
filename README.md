@@ -6,7 +6,7 @@ I am a software developer with a strong focus on systematic problem analysis and
 
 I have a consistent interest in complex technical challenges and frequently conduct independent research projects to explore new programming languages, development frameworks, and emerging technologies. This continuous learning mindset allows me to adapt quickly and contribute effectively to diverse engineering environments.
 
-You can click right down to see all my developed games 
+You can click on the itch.io icon to see all my developed games <3
 
 <p align='left'>
 <a href = "https://joao-marcos-bastos.itch.io/">
